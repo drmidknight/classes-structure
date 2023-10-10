@@ -99,14 +99,14 @@
 | **Death**         |                       |
 
 
-DOCUMENTS              
-                                                
-* EMPLOYEE RECORDS  
-* CAREER DEVELOPMENT  
-* PROGRESSION         
-* TRANSFER HISTORY    
-* LEAVE HISTORY       
-* EXITED PERSONNEL    
 
 
 
+| DOCUMENTS            | PERSONA                                                   | STATUS | ACCESS |
+|----------------------|---------------------------------------|--------|----------|--------|---------
+| EMPLOYEE RECORDS     | ADMINISTRATOR, 21/c, INCHARGE PERSONNEL & CLERKS (ALL)    | 0      |CRUD    |
+| CAREER DEVELOPMENT   | 11                                                        | 0      | 11     |
+| PROGRESSION          | ADMINISTRATOR, 21/c, INCHARGE PERSONNEL                   | 0      | 11     |
+| TRANSFER HISTORY     | ALL                                                       | 0      | 11     |
+| LEAVE HISTORY        | ALL                                                       | 0      | 11     |
+| EXITED PERSONNEL     | ALL                                                       | 0      | CRUD   |
